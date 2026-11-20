@@ -1,4 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "Thêm nút Kiểm tra bản mới cho MrOnexTikTok."
+  "version": "1.2.3",
+  "url": "https://github.com/MrOneAIHubx/MrOnexTikTok/releases/download/v1.2.3/MrOnexTikTok_Setup_1.2.3.exe",
+  "notes": "- Tối ưu chế độ lướt video: giảm vẽ lại nền và cập nhật thanh tiến trình theo sự kiện phát."
 }
