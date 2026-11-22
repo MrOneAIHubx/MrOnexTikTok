@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/MrOneAIHubx/MrOnexTikTok/releases/download/v1.2.6/MrOnexTikTok_Setup_1.2.6.exe",
-  "notes": "- Kiểm tra file video thiếu, rỗng hoặc có cấu trúc MP4 lỗi. Tải lại riêng video lỗi trong bài.\n- Thêm Lướt nhẹ: giảm hiệu ứng và tải trước, ưu tiên 720p HD khi kết nối ổn.\n- Tải ảnh gốc từ bài X vào thư mục tác giả, cùng chỗ với video.",
-  "sha256": "bdb4e34c709e1a72eef0ee4d0f67b18c9292f006c85cda2548dc71a18c1b7507"
+  "version": "1.2.7",
+  "url": "https://github.com/MrOneAIHubx/MrOnexTikTok/releases/download/v1.2.7/MrOnexTikTok_Setup_1.2.7.exe",
+  "notes": "- Lướt nhẹ tải trước sớm hơn và giữ ưu tiên 720p khi kết nối ổn.\n- Mở sớm kết nối đến máy chủ video X khi vào chế độ lướt.\n- Thêm Ưu tiên mạng khi lướt X. Lượt tải ảnh hoặc video mới chờ khi trình phát đang nạp.",
+  "sha256": "a3ad9f6569e4854b1b2af0b78247350be557a436af59438f4f42a3f2dd9c144d"
 }
